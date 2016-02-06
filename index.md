@@ -8,7 +8,7 @@ Welcome to the 2016 Eta Kappa Nu Student Leadership Conference. The Beta Epsilon
 is thrilled to welcome you to historic Ann Arbor. While we still have a few weeks before the conference convenes, 
 we're excited for what's to come.
 
-—Kyle Lady and Michael Benson, Conference Co-Chairs
+—[Kyle Lady](corporate@hkn2016.com) and [Michael Benson](corporate@hkn2016.com), Conference Co-Chairs
 
 
 ### Registration
