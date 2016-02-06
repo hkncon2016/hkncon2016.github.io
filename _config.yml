@@ -1,0 +1,4 @@
+name: HKN SLC 2016
+markdown: kramdown
+kramdown:
+  input: GFM
