@@ -8,7 +8,7 @@ title: HKN SLC '16 Sponsorships
  
 The annual Student Leadership Conference is the premier event for more than 150 students, faculty, department chairs, and IEEE-HKN Board of Governors members from around the world to gather for a weekend of professional development, leadership training and networking.
 
-Please email us at corporate@hkn2016.com to discuss partnerships. If you have a proposal for a different type of involvement than the packages below, we'd love to discuss it!
+Please email us at [corporate@hkn2016.com](mailto:corporate@hkn2016.com) to discuss partnerships. If you have a proposal for a different type of involvement than the packages below, we'd love to discuss it!
 
 #### Packages
 All sponsors receive:
