@@ -17,3 +17,6 @@ we're excited for what's to come.
 #### Fees
  - Early registration (on or before 15 Feb 2016): $35
  - Late registration: $45
+
+### Swag Exchange
+Does your chapter have too much awesome swag? Bring some to Ann Arbor, and exchange yours for another chapter's! This is a great way to get new ideas for swag items and designs. Go clean out your office, cabinet, or closet!
