@@ -9,6 +9,7 @@ This year's conference focuses on the *Balanced Engineer* and will feature four 
 A full list of speakers will be posted to this website prior to the start of the conference.
 
 Some of the speakers you'll get to hear from and talk with:
+
  - Dug Song, CEO/Co-Founder, Duo Security
  - Burt Dicht, Director of University Programs, IEEE
  - Michael J. Hand III, R&D Engineer, Ford Motor Company
