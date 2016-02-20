@@ -15,7 +15,7 @@ we're excited for what's to come.
 [Registration is now open](https://fs25.formsite.com/ieeevcep/form74/index.html?1452027086839).
 
 #### Fees
- - Early registration (on or before ~~15 Feb 2016~~ 23 Feb 2016): $35
+ - Early registration (on or before <strike>15 Feb 2016</strike> 23 Feb 2016): $35
  - Late registration: $45
 
 ### Swag Exchange
