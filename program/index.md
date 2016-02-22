@@ -17,7 +17,7 @@ Saturday
  - 10 am: Breakout sessions, 4 tracks: Chapter Development, Professional Development, Technical, and Society/Policy
  - 12 pm: Lunch & keynote: **Dug Song**, CEO/Co-Founder, [Duo Security](https://duo.com/)
  - 1 pm: Breakout sessions
- - 3 pm: Michigan Stadium tour & group photo
+ - 3 pm: [Michigan Stadium](https://en.wikipedia.org/wiki/Michigan_Stadium) tour & group photo
  - 5:30 pm: Reception
  - 7 pm: Closing Plenary Session (Keynote and Awards TBA)
  - 8 pm: Dinner & social activities based on interests, in groups guided by Beta Epsilon members
