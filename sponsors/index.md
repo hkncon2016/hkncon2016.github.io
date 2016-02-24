@@ -71,7 +71,7 @@ All sponsors receive:
     <tr>
       <td>Puzzle Challenge</td>
       <td>$1500</td>
-      <td>1</td>
+      <td>0</td>
       <td><ul><li>Company name/logo displayed prominently during the event</li><li>Students solve puzzles of the sponsor’s choosing, with assistance from IEEE-HKN, if desired</li></ul></td>
     </tr>
     <tr>
