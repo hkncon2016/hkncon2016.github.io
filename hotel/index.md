@@ -12,7 +12,7 @@ Wyndham Garden Hotel<br />
 2900 Jackson Ave.<br />
 Ann Arbor, MI 48103<br />
 734-665-4444<br />
-http://www.wyndham.com/hotels/michigan/ann-arbor/wyndham-garden-ann-arbor/hotel-overview
+[http://www.wyndham.com/hotels/michigan/ann-arbor/wyndham-garden-ann-arbor/hotel-overview](http://www.wyndham.com/hotels/michigan/ann-arbor/wyndham-garden-ann-arbor/hotel-overview)
 
 ### Room Rate
 Mention HKN Student Leadership Conference for a discounted rate of $89/night
