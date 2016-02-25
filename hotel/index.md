@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hotels: HKN SLC '16
+title: Hotels - HKN SLC '16
 ---
 
 # Hotel & Travel
