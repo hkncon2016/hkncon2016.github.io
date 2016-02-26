@@ -12,5 +12,6 @@ Some of the speakers you'll get to hear from and talk with:
 
  - Dug Song, CEO/Co-Founder, Duo Security
  - Burt Dicht, Director of University Programs, IEEE
- - Michael J. Hand III, R&D Engineer, Ford Motor Company
  - Cass Kuhl, High Voltage Electrical Power System Manager, NASA Glenn Research Center
+ - Rich Gray, Manager, US Power Systems Solutions, S&C Electric Company
+ - Michael J. Hand III, R&D Engineer, Ford Motor Company
