@@ -7,7 +7,7 @@ Friday
 -----
  - 2 pm: chapter and PD workshops (optional; TBA)
  - 4 pm: Registration Desk opens
- - 6 pm: Dinner & presentation/activities with [**EPICS in IEEE**](http://www.ieee.org/education_careers/education/preuniversity/epics_high.html)
+ - 6 pm: Dinner & presentation/activities with <a href="http://www.ieee.org/education_careers/education/preuniversity/epics_high.html" target="_blank">**EPICS in IEEE**</a>
  - 9 pm: Social Activities in Ann Arbor and on Campus
 
 Saturday
