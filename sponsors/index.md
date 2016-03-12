@@ -29,19 +29,19 @@ All sponsors receive:
     <tr>
       <td>Gold</td>
       <td>$7500</td>
-      <td>5</td>
+      <td>4</td>
       <td><ul><li>Waived registration fee for up to two representatives</li><li>Exclusive sponsor of a meal event (Friday dinner, Saturday breakfast, Saturday lunch, Saturday dinner)</li><li>Two designated emails to all SLC attendees featuring your company or product (Sponsor must provide copy; content subject to IEEE-HKN approval)</li><li>All benefits of Silver sponsorship</li></ul></td>
     </tr>
     <tr>
       <td>Silver</td>
       <td>$5000</td>
-      <td>5</td>
+      <td>4</td>
       <td><ul><li>Waived registration fee for one representative</li><li>Complimentary exhibition booth during the event (one six foot table)</li><li>All benefits of Bronze sponsorship</li></ul></td>
     </tr>
     <tr>
       <td>Bronze</td>
       <td>$2500</td>
-      <td>10</td>
+      <td>9</td>
       <td><ul><li>Company name/logo displayed prominently in event’s promotional and on-site marketing and advertising collateral  (including website, social media, t-shirt, email blasts, IEEE-HKN’s magazine THE BRIDGE, on-site materials)</li><li>Opportunity to provide promotional item in conference bags</li></ul></td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ All sponsors receive:
     <tr>
       <td>Conference Lanyard</td>
       <td>$2000</td>
-      <td>1</td>
+      <td>0</td>
       <td><ul><li>Company name/logo will appear on every attendee’s lanyard</li></ul></td>
     </tr>
     <tr>
