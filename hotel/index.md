@@ -15,7 +15,7 @@ Ann Arbor, MI 48103<br />
 [http://www.wyndham.com/hotels/michigan/ann-arbor/wyndham-garden-ann-arbor/hotel-overview](http://www.wyndham.com/hotels/michigan/ann-arbor/wyndham-garden-ann-arbor/hotel-overview)
 
 ### Room Rate
-Mention HKN Student Leadership Conference for a discounted rate of $89/night
+Mention HKN Student Leadership Conference for a discounted rate of $89/night. If the hotel front desk can no longer get you that rate (due to the conference being nearly upon us), contact [chairs@hkn2016.com]{mailto:chairs@hkn2016.com} for assisstance.
 
 ## Travel
 
