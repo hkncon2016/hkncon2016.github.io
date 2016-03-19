@@ -18,8 +18,9 @@ we're excited for what's to come.
 <a href="https://fs25.formsite.com/ieeevcep/form74/index.html" target="_blank">Registration is now open</a>.
 
 #### Fees
- - Early registration (on or before <strike>15 Feb 2016</strike> 23 Feb 2016): $35
- - Late registration: $45
+ - <strike>Early student registration (on or before 23 Feb 2016): $35</strike>
+ - Late student registration: $45
+ - Alumni registration: $60
 
 ### Swag Exchange
 Does your chapter have too much awesome swag? Bring some to Ann Arbor, and exchange yours for another chapter's! This is a great way to get new ideas for swag items and designs. Go clean out your office, cabinet, or closet!
