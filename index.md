@@ -5,7 +5,7 @@ title: HKN Student Leadership Conference 2016
 
 
 ### Welcome to HKN SLC 2016: The Balanced Engineer.
-Welcome to the 2016 Eta Kappa Nu Student Leadership Conference. The Beta Epsilon chapter at the University of Michigain
+Welcome to the 2016 Eta Kappa Nu Student Leadership Conference. The Beta Epsilon chapter at the University of Michigan
 is thrilled to welcome you to historic Ann Arbor. While we still have a few weeks before the conference convenes, 
 we're excited for what's to come.
 
