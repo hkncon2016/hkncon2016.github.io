@@ -3,6 +3,9 @@ layout: default
 title: HKN SLC '16 Program
 ---
 
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=corporate%40hkn2016.com&amp;color=%238D6F47&amp;src=hkn2016.com_0r4v2nd0p9f3q85q2hfqa8gbck%40group.calendar.google.com&amp;color=%23182C57&amp;src=hkn2016.com_oiuvu98ocvs13kfq8tgend6njs%40group.calendar.google.com&amp;color=%230F4B38&amp;src=hkn2016.com_po2g9b8vuksbremqsqk7ifbuvg%40group.calendar.google.com&amp;color=%238C500B&amp;src=hkn2016.com_ob5n2c4ld2p1rmjq1pdk8c9rtc%40group.calendar.google.com&amp;color=%23B1440E&amp;src=hkn2016.com_ha26116v14k3e7lpk7rnbv5l6c%40group.calendar.google.com&amp;color=%23865A5A&amp;src=hkn2016.com_jp2tghcrjieorru6as39ou15pk%40group.calendar.google.com&amp;color=%23691426&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 Friday
 -----
  - 2 pm: chapter and PD workshops (optional; TBA)
