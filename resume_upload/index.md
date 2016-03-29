@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume Upload
+redirect: https://script.google.com/macros/s/AKfycbxyPxD9lyOTBwhIzr4dPqaFsb5tXsx53kWkuWlwR4EsjiNxa0s4/exec
 ---
 
-<iframe src="https://script.google.com/macros/s/AKfycbxyPxD9lyOTBwhIzr4dPqaFsb5tXsx53kWkuWlwR4EsjiNxa0s4/exec" width="760" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Redirecting you to <a href="https://script.google.com/macros/s/AKfycbxyPxD9lyOTBwhIzr4dPqaFsb5tXsx53kWkuWlwR4EsjiNxa0s4/exec">the resume upload tool</a>.
