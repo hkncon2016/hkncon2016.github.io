@@ -9,7 +9,7 @@ Welcome to the 2016 Eta Kappa Nu Student Leadership Conference. The Beta Epsilon
 is thrilled to welcome you to historic Ann Arbor. While we still have a few weeks before the conference convenes, 
 we're excited for what's to come.
 
-### The conference is here! 
+### Conference Schedule on your smartphone / tablet! 
 Please be sure to download our [Guidebook App](https://guidebook.com/g/HKNSLC2016) and use code *etakappanu* to access our guide! Should you have any questions about the guides, please contact us!
 
 —[Kyle Lady](mailto:chairs@hkn2016.com) and [Michael Benson](mailto:chairs@hkn2016.com), Conference Co-Chairs
